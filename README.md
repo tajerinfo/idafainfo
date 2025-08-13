@@ -98,3 +98,19 @@ https://tajer.info/
 
 قالب موقع إلكتروني ووردبريس للاستشارات النفسية والأسرية : https://idafa.info/fjgg
 لمشاهدة التصميم: http://tajer.info/templates/consult/
+
+منصة تاجر - منتجات متعددة في مكان واحد
+http://tajer.info
+#موقع تاجر:
+http://kdmaty.tajer.info/
+اشتري أونلاين خدمات رقمية بأسعار مناسبة.
+#متجر تاجر:
+http://store.tajer.info/
+استكشف منتجات متنوعة على متجرنا أونلاين.
+-عربي: http://store.tajer.info/ar
+-انجليزي: http://store.tajer.info/en
+#استضافة تاجر:
+http://hosting.tajer.info
+احصل على استضافة مجانية ودومين بسعر مناسب.
+#موقع إضافة - حلول مختلفة لمستخدمي ويب بأسعار مناسبة.
+http://idafa.info/
