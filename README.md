@@ -114,6 +114,7 @@ http://store.tajer.info/
 
 -عربي: http://store.tajer.info/ar
 -انجليزي: http://store.tajer.info/en
+
 #استضافة تاجر:
 
 http://hosting.tajer.info
